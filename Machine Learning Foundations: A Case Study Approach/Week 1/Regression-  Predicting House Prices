@@ -1,0 +1,17 @@
+****** Regression: Predicting House Prices *************
+
+Linear  Regression can be apply in two ways, IF relation between two variables.
+
+X <-> Y
+For example:
+text price <-> Increase price on liquor consume
+sleep hours <-> Test score
+Experience <->  Salary
+House loan <-> House Price
+
+Linear Regression- Line of  Best Fit
+Y= A+BX
+or
+Y=B_0+B_1*X
+or
+Y=MX+B (B= INTERCEPT, M=SLOPE)
